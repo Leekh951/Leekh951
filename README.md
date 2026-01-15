@@ -6,10 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-ff69b4?style=flat-square&logo=gmail)](mailto:leekh951@inha.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gihyeonlee99)
 
+</div>
+
 <br/>
 
-• I am an **M.S. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**. <br/>
-• I am passionate about giving robots the ability to understand the world semantically. <br/>
-• My research aims to bridge the gap between **Spatial AI** and **Semantic Understanding**.
-
-</div>
+- I am an **M.S. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**.
+- I am passionate about giving robots the ability to understand the world semantically.
+- My research aims to bridge the gap between **Spatial AI** and **Semantic Understanding**.
