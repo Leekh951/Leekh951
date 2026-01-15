@@ -12,4 +12,4 @@
 
 - I am an **M.S. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**.
 - I am passionate about giving robots the ability to understand the world semantically.
-- My research aims to bridge the gap between **Spatial AI** and **Semantic Understanding**.
+- My research aims to bridge the gap between **Semantic SLAM** and **Scene Understanding**.
