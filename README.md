@@ -8,16 +8,8 @@
 
 <br/>
 
-### 🚀 M.S. Student at Spatial AI & Robotics Lab
-**Advised by Prof. Younggun Cho**
-
-<br/>
-
-I am passionate about giving robots the ability to understand the world semantically. <br/>
-My research aims to bridge the gap between **Spatial AI** and **Semantic Understanding**.
+• I am an **M.S. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**. <br/>
+• I am passionate about giving robots the ability to understand the world semantically. <br/>
+• My research aims to bridge the gap between **Spatial AI** and **Semantic Understanding**.
 
 </div>
-
-<br/>
-
-
