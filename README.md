@@ -10,5 +10,5 @@
 
 <br/>
 
-- I am an **M.S. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**.
+- I am an **Ph.D. student at Spatial AI & Robotics Lab**, advised by Prof. **Younggun Cho**.
 - Passionate about giving robots the ability to understand the world semantically, my research interests are centered around **Semantic SLAM** and **Scene Understanding**.
